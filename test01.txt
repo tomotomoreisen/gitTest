@@ -1,0 +1,2 @@
+fruits: apple, orange, pineapple
+seiyu: harunyan, marinka, rieri
