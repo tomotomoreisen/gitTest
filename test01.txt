@@ -1,2 +1,2 @@
 fruits: apple, orange, pineapple
-seiyu: harunyan, marinka, rieri
+seiyu: harunyan, marinka, rieri, gakkyu
